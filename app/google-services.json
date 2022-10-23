@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "686869708832",
+    "project_id": "stadiumreservation",
+    "storage_bucket": "stadiumreservation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686869708832:android:e5a8981df9a3c877983c45",
+        "android_client_info": {
+          "package_name": "com.arbib.stadiumreservation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686869708832-8v12i65g4qcjk5ois5ggqdl0a8im9el8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0yktBo3HjQFpQhKL-D0DlCfTr2ZgTDaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686869708832-8v12i65g4qcjk5ois5ggqdl0a8im9el8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
